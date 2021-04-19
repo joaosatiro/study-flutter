@@ -37,10 +37,10 @@ Status: ***Cursando***
 * Seção 16: Publicando a aplicação nas lojas
 * Seção 17: Projeto campo minado
 * Seção 18: projeto calculadora
-* <s>Seção 19: Dart - Fundamentos</s>
+* <s>Seção 19: Dart - Fundamentos
 * Seção 20: Dart - Estruturas de controle
 * Seção 21: Dart - Funções
-* Seção 22: Dart - Orientação a Objetos
+* Seção 22: Dart - Orientação a Objetos</s>
 * Seção 23: Conclusão do curso
 
 ## Cod3r
