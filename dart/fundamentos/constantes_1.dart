@@ -11,7 +11,7 @@ main() {
   
   const PI = 3.1415;
 
-  final entradaDoUsuario = stdin.readLineSync()!;
+  final entradaDoUsuario = stdin.readLineSync();
   // print("O valor digitado é: " + entradaDoUsuario);
 
   final raio = double.parse(entradaDoUsuario);

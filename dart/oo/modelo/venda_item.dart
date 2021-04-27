@@ -6,7 +6,7 @@ class VendaItem {
   double preco;
 
   VendaItem({
-    required this.produto,
+    this.produto,
     this.quantidade = 1,
     this.preco = 0,
   });

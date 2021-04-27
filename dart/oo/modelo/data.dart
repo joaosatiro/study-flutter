@@ -1,6 +1,6 @@
 class Data {
-  int? dia;
-  int? mes;
+  int dia;
+  int mes;
   int ano;
 
   // Data(int dia, int mes, int ano) {

@@ -5,12 +5,12 @@ main(List<String> args) {
 
   while(digitado != 'sair') {
     stdout.write('Digite algo ou sair: ');
-    digitado = stdin.readLineSync()!;
+    digitado = stdin.readLineSync();
   }
 
   do {
     stdout.write('Digite algo ou sair: ');
-    digitado = stdin.readLineSync()!;
+    digitado = stdin.readLineSync();
   } while(digitado != 'sair');
 
   print('Fim!');

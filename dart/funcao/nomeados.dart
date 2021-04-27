@@ -7,7 +7,7 @@ main() {
   imprimirData(7, ano: 2021, mes: 12);
 }
 
-saudarPessoa({String? nome, int? idade}) {
+saudarPessoa({String nome, int idade}) {
   print("Olá $nome nem parece que vc tem $idade anos.");
 }
 

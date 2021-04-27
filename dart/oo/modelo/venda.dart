@@ -5,7 +5,7 @@ class Venda {
   Cliente cliente;
   List<VendaItem> itens;
 
-  Venda({required this.cliente, this.itens = const []});
+  Venda({this.cliente, this.itens = const []});
 
   double get valorTotal {
     return itens
