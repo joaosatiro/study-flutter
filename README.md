@@ -19,9 +19,9 @@
 ## Progresso
 Status: ***Cursando***
 
-* <s>Seção 1: Fundamentos de Flutter</s>
+* <s>Seção 1: Fundamentos de Flutter
 * Seção 2: Noções básicas de Flutter
-* Seção 3: Debugging & Diferentes Dispositivos
+* Seção 3: Debugging & Diferentes Dispositivos</s>
 * Seção 4: Construindo App Real - Despesas Pessoais
 * Seção 5: Interfaces Responsivas & Adaptativas
 * Seção 6: Flutter & Widgets Internamente
