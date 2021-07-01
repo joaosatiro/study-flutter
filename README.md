@@ -21,8 +21,8 @@ Status: ***Cursando***
 
 * <s>Seção 1: Fundamentos de Flutter
 * Seção 2: Noções básicas de Flutter
-* Seção 3: Debugging & Diferentes Dispositivos</s>
-* Seção 4: Construindo App Real - Despesas Pessoais
+* Seção 3: Debugging & Diferentes Dispositivos
+* Seção 4: Construindo App Real - Despesas Pessoais</s>
 * Seção 5: Interfaces Responsivas & Adaptativas
 * Seção 6: Flutter & Widgets Internamente
 * Seção 7: Navegação & Múltiplas Telas - Flutter
