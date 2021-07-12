@@ -24,8 +24,8 @@ Status: ***Cursando***
 * Seção 3: Debugging & Diferentes Dispositivos
 * Seção 4: Construindo App Real - Despesas Pessoais
 * Seção 5: Interfaces Responsivas & Adaptativas
-* Seção 6: Flutter & Widgets Internamente</s>
-* Seção 7: Navegação & Múltiplas Telas - Flutter
+* Seção 6: Flutter & Widgets Internamente
+* Seção 7: Navegação & Múltiplas Telas - Flutter</s>
 * Seção 8: Gerenciamento de Estado
 * Seção 9: Trabalho com Formulários - Flutter
 * Seção 10: Enviando Requisições HTTP
